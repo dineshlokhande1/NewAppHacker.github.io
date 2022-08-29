@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/NewAppHacker/static/css/main.9c59207b.chunk.css",
+    "main.js": "/NewAppHacker/static/js/main.b926a977.chunk.js",
+    "main.js.map": "/NewAppHacker/static/js/main.b926a977.chunk.js.map",
+    "runtime-main.js": "/NewAppHacker/static/js/runtime-main.91a2d415.js",
+    "runtime-main.js.map": "/NewAppHacker/static/js/runtime-main.91a2d415.js.map",
+    "static/js/2.4904b4fd.chunk.js": "/NewAppHacker/static/js/2.4904b4fd.chunk.js",
+    "static/js/2.4904b4fd.chunk.js.map": "/NewAppHacker/static/js/2.4904b4fd.chunk.js.map",
+    "index.html": "/NewAppHacker/index.html",
+    "precache-manifest.f3101bf01e816b37214415328e13c3ee.js": "/NewAppHacker/precache-manifest.f3101bf01e816b37214415328e13c3ee.js",
+    "service-worker.js": "/NewAppHacker/service-worker.js",
+    "static/css/main.9c59207b.chunk.css.map": "/NewAppHacker/static/css/main.9c59207b.chunk.css.map",
+    "static/js/2.4904b4fd.chunk.js.LICENSE.txt": "/NewAppHacker/static/js/2.4904b4fd.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.91a2d415.js",
+    "static/js/2.4904b4fd.chunk.js",
+    "static/css/main.9c59207b.chunk.css",
+    "static/js/main.b926a977.chunk.js"
+  ]
+}
